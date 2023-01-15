@@ -1,5 +1,8 @@
 - Hi, I’m Daniel.
-- I’m interested in software development.
+- I’m interested in
+      software development,
+      machine learning,
+      travelling.
 - My major is mathematics.
 - This is for personal projects, most repositories will be private.
 
