@@ -18,3 +18,9 @@ Languages:
 - Javascript
 - R
 
+Framework:
+- PyTorch
+- Flutter
+- Node
+- Vue
+- Flask
